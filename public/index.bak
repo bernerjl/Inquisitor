@@ -1,0 +1,13 @@
+<html>
+<head>
+	<title>IRC Confessions</title>
+</head>
+<body>
+<h3>IRC Confessions</h3>
+<em>Confessions are limited to 400 characters or less</em>
+<form action="/confess" method="post">
+<textarea name="confession" rows="7" cols="65"></textarea><br />
+<input type="submit" name="cmd" value="Confess" />
+</form>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+	"name":		"SearchEngine",
+	"version":	"0.1.0",
+	"main":		"main.js",
+	"scripts" : {
+		"start":	"node main.js"
+	},
+	"engines" : {
+		"node":	">=0.6"
+	},
+	"dependencies": {
+		"irc":	"0.3.x",
+		"connect":	"2.7.x",
+		"mongo-lite":	"0.3.x",
+		"moment":	"2.0.x",
+		"html-entities":	"1.0.x"
+	}
+}

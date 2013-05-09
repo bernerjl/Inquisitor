@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+#banner {
+	width   :780px;
+	padding-left:25px;
+	padding-top:25px;
+}
+
+#TextContent {
+	padding-left:25px;
+	padding-top:25px;
+}
+
+
+#recentActivity {
+	margin-top		:250px;
+	margin-bottom		:50px;
+	background-color	:white;
+}
+#recentActivity table tr.date td {
+	text-align: right;
+	background-color: #333;
+	color: white;
+}
+#recentActivity h3 {
+	padding: 5px;
+}
+#recentActivity table {
+	width			:930px;
+	color			:black;
+}
+#recentActivity table td {
+	padding: 1px 5px;
+}
+#recentActivity table td.nick {
+	text-align: right;
+}
+#recentActivity table tr.odd {
+	background-color: #ddd;
+}
+#imageContent {
+	padding-left:25px;
+	padding-top:25px;
+}
+
+#footer {
+	padding-left:25px;
+	padding-top:25px;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	color:  #006600;
+	background-image: url(images/pope.jpg);
+	text-align:center;
+}
+
+.HugeWhiteItalicText {
+	font-size: 45px;
+	font-style:italic;
+	color: white;
+}
+
+.HugeWhiteBoldText {
+	font-size: 18px;
+	font-weight:bold;
+	color: white;
+}
+
+.SmallBlackText {
+	color: black;
+}
+
+
+a:link {
+	color:#660099;
+}
+
+a:visited{
+	color:#FF0;
+}
+
+a:hover{
+	color:#660000;
+}
+
+#bodycenter {
+	width		:955px;
+	height		:auto;
+	margin-left	:auto;
+	margin-right	:auto;
+	text-align	:left;
+}
