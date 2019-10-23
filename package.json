@@ -12,7 +12,7 @@
 		"irc":	"0.3.x",
 		"connect":	"2.7.x",
 		"mongo-lite":	"0.3.x",
-		"moment":	"2.0.x",
+		"moment":	"2.24.x",
 		"html-entities":	"1.0.x"
 	}
 }
